@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome telemetryportal20240825181953.azureweb",
+  "Type": "App",
+  "Id": "89KF552q-0GQNbmBqKAc-w",
+  "Reference": "IM7L16SML02AaV_TdLoj8Q/89KF552q-0GQNbmBqKAc-w",
+  "Created": "2024-09-07T11:46:27.466632Z",
+  "Updated": "2024-09-07T11:46:27.466632Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
